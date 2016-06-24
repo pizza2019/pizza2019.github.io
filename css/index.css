@@ -1,0 +1,115 @@
+body {
+    background-color: #80aaff;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+/* 
+ h1, h2 {
+   background-color: #99bbff;
+   font-family: 'PT Sans Narrow', sans-serif;
+
+
+h1  {
+    text-align:left;
+    text-transform:uppercase;
+*/
+
+
+#down {
+    top: 500px;
+}
+
+.b {
+     background-color: #99bbff;
+     text-align:left;
+     padding:0px;
+     margin:0px;
+}
+
+.p {
+    background-color:#99bbff ;
+    padding: 20px;
+    text-align:center;
+    text-transform:uppercase;
+    
+}   
+   
+}
+.penguin {
+    background-color:none;
+    position: relative;
+    top: 350px;
+   
+}
+
+.penguin h2 {
+   position: relative;
+    text-align: left;
+
+  
+   
+}
+
+.class_penguin{
+    background-color:none;
+}
+
+
+.navbar ul {
+    position:relative;
+    left:0px;
+    bottom:39px;
+    width:100%;
+    
+    background-color: #99bbff;
+
+    list-style-type:none;
+}    
+    
+.navbar li a {
+    background-color:#3377ff;
+    text-decoration:none;
+    /*height:40%;*/
+    text-align:center;
+    color:black;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:16px;
+    float:left;
+    width:6%;
+    margin-right:4px;
+    
+    padding-left:4px;
+    padding-right:4px;
+    
+    border-radius:6px 6px 0px 0px;
+    margin:0px 4px 0px 4px;
+    padding:2px 4px 2px 4px;
+}
+h2 {
+text-align:left;
+}
+
+.navbar li a:hover {
+    background:;
+}
+
+.navbar li a:active {
+    background:white;
+}
+.navbar li a.selected {
+    background:#80aaff;
+}
+.navbar li a:hover {
+   margin-top:4px;
+   padding-bottom:4px;
+   margin-top:-4px;
+}
+.facts {
+    text-align:left;
+
+}
+.mid {
+    display:block;
+    margin:auto;
+
+}
+}
